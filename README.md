@@ -399,16 +399,16 @@ Don’t miss out, grab your ThriveCart discount now and take your online busines
 
 ### How much does ThriveCart cost per month?
 
-ThriveCart costs a one-time fee of $495 (Standard) or $690 (Pro) with lifetime access.
+ThriveCart costs a one-time fee of **$495 (Standard)** or **$690 (Pro) with lifetime access**.
 
 ### How many products can you have on ThriveCart?
 
-ThriveCart allows unlimited products on both Standard and Pro plans. You can sell digital and physical products, subscriptions, and memberships.
+ThriveCart allows **unlimited products** on both Standard and Pro plans. You can sell digital and physical products, subscriptions, and memberships.
 
 ### Does ThriveCart take a percentage?
 
-No, ThriveCart does not take any transaction fees; you keep 100% of your sales.
+No, **ThriveCart does not take any transaction fees**; you keep 100% of your sales.
 
 ### Is ThriveCart worth it?
 
-Yes, ThriveCart is worth it if you need a one-time payment cart platform with powerful sales features, upsells, and automation.
+**Yes**, ThriveCart is worth it if you need a one-time payment cart platform with powerful sales features, upsells, and automation.
