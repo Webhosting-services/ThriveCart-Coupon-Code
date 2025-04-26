@@ -412,3 +412,6 @@ No, **ThriveCart does not take any transaction fees**; you keep 100% of your sal
 ### Is ThriveCart worth it?
 
 **Yes**, ThriveCart is worth it if you need a one-time payment cart platform with powerful sales features, upsells, and automation.
+
+### Does ThriveCart collect sales tax?
+**Yes, ThriveCart can automatically collect sales tax and VAT based on the customer's location**. It integrates with TaxJar (for Pro users) to calculate accurate taxes and supports regions like the U.S., EU, UK, Canada, and Australia. You can also enable tax-inclusive pricing and VAT ID validation.
